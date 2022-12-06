@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Bhadra Shah 👋</h2>
+<h2 align="center">Hi, This is Sai Pavan 👋</h2>
 
 ### 📖 &nbsp; About me
 * 🎓 &nbsp; Currently pursuing my Master's in Data Sciecne from  **State University of New York- University at Buffalo**
