@@ -4,7 +4,7 @@
 * 🎓 &nbsp; Currently pursuing my Master's in Data Sciecne from  **State University of New York- University at Buffalo**
 * 🏢  &nbsp; Completed my Bachleors in Computer Science from **University of Petroleum and Energy Studies(UPES)**
 * &#128270; &nbsp; Actively looking for Data Science, Machine Learning, SDE roles.
-* 📄 &nbsp; Check out my [Resume](./Resume.pdf)
+* 📄 &nbsp; Check out my [Resume](./Resume .pdf)
 
 ### 👨‍💻 &nbsp; Professional Experience
 
