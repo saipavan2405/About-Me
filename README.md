@@ -77,33 +77,3 @@
   
 ### 👨‍💻 &nbsp; Projects
   
-<a href="https://github.com/BhadraKShah/Projects/blob/main/Smart%20Parking%20System.pdf">Smart Parking Reservation System[PHP, Python]</a>
-  
-
-  
-  
-
-*  &nbsp;  Developed a PHP based web application to help reserve vacant parking spots.
-*  &nbsp; Used object detection approach (Haar Cascade algorithm) to identify vacant parking spots
-  
-
-<a href="https://github.com/BhadraKShah/Projects/blob/main/Tesla%20Stock%20Price%20.ipynb">Tesla Stock Time Series Analysis [ NumPy, Sklearn, TensorFlow]</a>
-*  &nbsp; Performed Data Visualization and Analysis to understand trends of Tesla (TSLA) stock data. 
-*  &nbsp; Employed Recurrent Neural Network and Long Short-Term Memory for forecasting.
-  
-
-<a href="https://github.com/BhadraKShah/Projects/blob/main/CNN.ipynb">Fashion MNIST Classification [ Keras, Matplotlib, NumPy]</a>
-*  &nbsp; Analyzed and preprocessed the data.
-*  &nbsp; Applied Convolutional Neural Network(CNN) model and different techniques to optimize the model for classification.
-  
-
-<a href="https://github.com/BhadraKShah/Projects/blob/main/Single%20agent%20reinforcement%20learning.ipynb">Agent Grid Reinforcement Learning [Python]</a>
-*  &nbsp; Created a grid environment with a single agent containing different positive and negative rewards.
-*  &nbsp; Utilized the reinforcement learning algorithm, epsilon-greedy, Q learning, SARSA, Double Q learning
-and compared the results.
-  
-
-<a href="https://github.com/BhadraKShah/Projects/blob/main/CNN.ipynb">H&M Fashion Recommendation system [Python]</a>
-*  &nbsp; Created a recommendation system to give user’s recommendations using the H&M dataset.
-*  &nbsp; Utilized CNN Model (ResNet) to extract features from images and used K- means Clustering to cluster the data
-*  &nbsp; Performed ALS Matrix Factorization method to give recommendations based on user similarity.
